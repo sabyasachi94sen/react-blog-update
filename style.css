@@ -1,0 +1,11 @@
+.mountain{
+    width:400px;
+    height:300px
+}
+.wrapper{
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
